@@ -1,0 +1,9 @@
+{
+  "name": "PopChat",
+  "description": "Um aplicativo de mensagens estilo Telegram com uma interface vibrante em tons de vermelho, focado em conversas rápidas e inteligentes sem necessidade de login.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
